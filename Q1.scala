@@ -1,5 +1,3 @@
-package FP_Prac07
-
 object Q1 {
 
   // Function to display products in the inventory
